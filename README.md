@@ -1,2 +1,2 @@
 # hello-world
-First Github project
+I'm Laura. This is pretty cool. Right?
